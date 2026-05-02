@@ -32,3 +32,4 @@ for i in range(1, 51):
 print("\n--- RESULTADO DA PESQUISA ---")
 print(f"Quantidade de respostas EXCELENTE: {qtde_excelente}")
 print(f"Quantidade de respostas RUIM: {qtde_ruim}")
+
